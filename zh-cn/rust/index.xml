@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Rusts on Max Qian's blog</title><link>/zh-cn/rust/</link><description>Recent content in Rusts on Max Qian's blog</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>©2024 Max Qian</copyright><atom:link href="/zh-cn/rust/index.xml" rel="self" type="application/rss+xml"/><item><title>Day1 - Rust 安装与入门指南</title><link>/zh-cn/rust/01/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/zh-cn/rust/01/</guid><description>&lt;h2 class="relative group">安装 Rust
+&lt;div id="%E5%AE%89%E8%A3%85-rust" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#%E5%AE%89%E8%A3%85-rust" aria-label="锚点">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>第一步是安装 Rust。我们将通过 &lt;code>rustup&lt;/code> 下载 Rust，这是一个用于管理 Rust 版本及相关工具的命令行工具。你需要联网才能下载。&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="/zh-cn/rust/01/featured.png"/></item></channel></rss>
